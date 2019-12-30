@@ -1,0 +1,15 @@
+{
+    "name": "asukal-guide",
+    "version": "1.0.0",
+    "description": "Asukal is a responsive, multiple page admin panel/application theme built with Bootstrap 4 & jQuery. It provides you a good collection of UI components and ready to use code utilities, many custom components and a wide collection of elements to get you started with your next application.",
+    "devDependencies": {
+        "cross-env": "^6.0.3",
+        "vuepress": "^1.2.0"
+    },
+    "scripts": {
+        "dev": "vuepress dev",
+        "build": "cross-env NODE_ENV=production vuepress build"
+    },
+    "author": "",
+    "license": "ISC"
+}
